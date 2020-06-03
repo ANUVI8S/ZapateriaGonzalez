@@ -1,0 +1,40 @@
+H1{ color: blue; font-family: Times New Roman; font-size:35pt; }
+H4{ color: black; font-family: Times New Roman; font-size:20pt; font-weight:bold; }
+H6{ color: DARKRED; font-family: Times New Roman; font-size:20pt; font-weight:bold; }
+b{ color: black; font-family: Times New Roman; font-size:20pt; }
+body{background-image:url("70.jpg")}
+#destacada{
+width: 320px;
+height: 320px;
+}
+#destacada1{
+width: 110px;
+height: 110px;
+}
+#destacada2{
+width: 250px;
+height: 90px;
+}
+#destacada3{
+width: 250px;
+height: 250px;
+}
+font{Font-family:ARIAL; font-SIZE:35pt; COLOR: LightYellow;}
+H5 { color: blACK; font-family: Times New Roman; font-size:20pt; }
+H2 { color: DARKRED; font-family: Times New Roman; font-size:40pt; }
+.efecto1_img{ 
+    border-top-width: 2% 0;
+    box-shadow: 0px 0px 60px #000;
+    padding: 2px;
+    background: #000
+}
+.efecto2_img{ 
+    border-top-width: 2% ;
+    box-shadow: 0px 0px 60px #000;
+    padding: 2px;
+}
+.efecto1_vd{ 
+    border-top-width: 2% ;
+    box-shadow: 0px 0px 60px #000;
+    padding: 2px;
+}
